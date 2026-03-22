@@ -110,6 +110,6 @@ I recommend testing it on a small album first before running it on your full lib
 
 ## Why I made this
 
-I was migrating my own photo library and didn’t want to lose years of chronological order.
+I was migrating my own photo library and didn’t want to lose years of chronological order of my pictures.
 
 This script is just a practical fix for that problem.
